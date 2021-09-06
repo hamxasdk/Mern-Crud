@@ -1,0 +1,1 @@
+npm i mongoose jasonwebtoken cors body-parser nodemon dotenv slugify express-jwt
